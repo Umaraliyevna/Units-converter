@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+  width: 600px;
+  height: 500px;
+}
+
+.Layout{
+  border: 1px solid blue;
+  width: 100%;
+  height: 100%;
+  margin: 50px  450px;
+  border-radius: 10px;
+}
+
+.inputNumber{
+  width: 80%;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  margin-bottom: 35px;
+}
+
+.select{
+  width: 80%;
+  height: 40px;
+  border-radius: 5px;
+  font-size: 1.2rem;
+  color:rgba(0, 0, 0, 0.563)
+}
+
+#to{
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+
+.change_btn{
+  margin-top: 20px;
+  width: 80%;
+  height: 40px;
+  border-radius: 5px;
+  background-color: rgb(10, 88, 243);
+  border: none;
+  color: #ffff;
+  font-size: 1.2rem;
+}
+
+.result{
+  color: rgb(16, 171, 16);  
+}
